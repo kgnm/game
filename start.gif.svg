@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2271"
+   sodipodi:version="0.32"
+   inkscape:version="0.45.1"
+   width="440"
+   height="600"
+   version="1.0"
+   sodipodi:docbase="/home/j632/j6313026/java/game"
+   sodipodi:docname="start.gif.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata
+     id="metadata2276">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs2274" />
+  <sodipodi:namedview
+     inkscape:window-height="621"
+     inkscape:window-width="874"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="0.67833333"
+     inkscape:cx="220"
+     inkscape:cy="300"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:current-layer="svg2271" />
+  <image
+     xlink:href="start.gif"
+     sodipodi:absref="/home/j632/j6313026/java/game/start.gif"
+     width="440"
+     height="600"
+     id="image2278"
+     x="0"
+     y="0" />
+  <text
+     xml:space="preserve"
+     style="font-size:40;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+     x="95.823097"
+     y="372.97296"
+     id="text2280"><tspan
+       sodipodi:role="line"
+       id="tspan2282"
+       x="95.823097"
+       y="372.97296">Press space</tspan></text>
+</svg>
